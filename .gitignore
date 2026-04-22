@@ -1,3 +1,6 @@
 # jekyll local file
 .jekyll*
 _site
+*.ppt
+*.pptx
+*.DS_Store
